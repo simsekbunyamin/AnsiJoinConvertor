@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"OU",
+				"out"
+			],
+			[
+				"Ma",
+				"margin"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"Fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bunyamin.simsek/Documents/Web/Ansi Join Convertor/js/common.js",
+		"/C/Users/bunyamin.simsek/Documents/Web/Ansi Join Convertor/.git/.COMMIT_EDITMSG.swp",
+		"/C/Users/bunyamin.simsek/Documents/Web/Ansi Join Convertor/index.html",
+		"/C/Users/bunyamin.simsek/Desktop/RE Mail Konusu.htm",
+		"/C/Guncel/Leo 243/Lic/Connections.ini",
+		"/C/Users/bunyamin.simsek/Documents/Alınan Dosyalarım/Yeni Metin Belgesi.txt",
+		"/C/Users/bunyamin.simsek/Desktop/Adsız_dosyalar/colorschememapping.xml",
+		"/C/Users/bunyamin.simsek/Desktop/Adsız_dosyalar/filelist.xml",
+		"/C/Users/bunyamin.simsek/Desktop/Adsız.htm",
+		"/C/Users/bunyamin.simsek/Desktop/Adsız.msg",
+		"/C/Guncel/Leo 244/Lic/Leo.config",
+		"/C/Users/bunyamin.simsek/Desktop/Apps Script Backup 2.js",
+		"/C/Users/bunyamin.simsek/Downloads/SQL Server 2012 Feature Pack Instructions (1).txt",
+		"/C/Users/bunyamin.simsek/AppData/Local/Temp/7zO0DDFDDFD/Aktarma.txt",
+		"/C/Users/bunyamin.simsek/AppData/Local/Temp/7zO0DD405BD/Partileme.txt",
+		"/C/Users/bunyamin.simsek/AppData/Local/Temp/7zO0DDF705C/Yaş Partileme.txt",
+		"//192.168.16.3/guncel/LeoTest/Lic/Leo.config",
+		"/C/Users/bunyamin.simsek/Desktop/GNC/index.php",
+		"/C/Users/bunyamin.simsek/Source/Workspaces/PhantomSentryService/PhantomSentryService/bin/Debug/LogFile.txt",
+		"/C/Users/bunyamin.simsek/Desktop/Ansi Join Convertor/css/style",
+		"/C/Users/bunyamin.simsek/Desktop/Ansi Join Convertor.html",
+		"/C/Guncel/Leo 244/Lic/Connections.ini",
+		"/C/Users/bunyamin.simsek/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/2E6UKP6Q/hyptrm.txt",
+		"/C/Users/bunyamin.simsek/Desktop/index.php",
+		"/C/Users/bunyamin.simsek/Desktop/iletisim.php",
+		"/C/Users/bunyamin.simsek/Desktop/footer.php",
+		"/C/Users/bunyamin.simsek/Documents/Visual Studio 2015/Projects/LeoPulseRFID_DataGenerator/LeoPulseRFID_DataGenerator/bin/Debug/LeoPulseRFID_DataGenerator.vshost.exe.config",
+		"/C/Users/bunyamin.simsek/Documents/Visual Studio 2015/Projects/LeoPulseRFID_DataGenerator/LeoPulseRFID_DataGenerator/bin/Debug/LeoPulseRFID_DataGenerator.exe.config",
+		"/C/Users/bunyamin.simsek/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/2E6UKP6Q/MKK user2.txt",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/features.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/css/style.css",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/css/skin-blue.css",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/KullaniciSozlesmesi.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/GizlilikPolitikasi.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/ApiError.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/maintenance.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/EmailFail.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/success.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/fail.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/EmailConfirm.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/contact.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/underconstruction.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/mailsuccess.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/mainfeatures.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/about.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/404.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/index.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/20160605/css/kendinyonet.css",
+		"/C/Users/bunyamin.simsek/Downloads/SQL Server 2012 Feature Pack Instructions.txt",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Ajax mail gönder.txt",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Satın Alınan Temalar/products-WB03N9066/calypso/calypso-theme/index.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site/Web Site 06042016/underconstruction.html",
+		"/C/Users/bunyamin.simsek/Desktop/Video_Egitim-2016-05-20/Video Egitim/leohelp.html",
+		"/C/Users/bunyamin.simsek/Documents/Virtual Null Modem/interface.TR.txt",
+		"//192.168.16.3/guncel/Leo/Lic/Leo.config",
+		"/C/Users/bunyamin.simsek/Documents/Virtual Null Modem/program/Lisans.txt",
+		"/C/Users/bunyamin.simsek/Documents/Yeni klasör/autorun.inf",
+		"//10.10.16.15/gunceldestek/GuncelApps/LeoHelp/index.html",
+		"//10.10.16.15/gunceldestek/GuncelApps/LeoHelp/assets/js/custom.js",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/css/style.css",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/features.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/contact.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/success.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/EmailConfirm.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/index.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/fail.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/mailsuccess.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/mainfeatures.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/underconstruction.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/404.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - https/about.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/features.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/js/common.js",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/ApiError.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/about.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/404.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/underconstruction.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/success.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/maintenance.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/mainfeatures.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/mailsuccess.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/get_captcha.php",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/fail.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/EmailFail.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/EmailConfirm.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/contact.php",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/contact.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/class.phpmailer.php",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016 - Kopya/index.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Web/Kendin Yönet/backup18052016/index.html",
+		"/C/Users/bunyamin.simsek/Source/Workspaces/KendinYonetWeb/KendinYonet/sendmail.aspx.cs",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Satın Alınan Temalar/products-WB03N9066/calypso/calypso-theme/contact.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Satın Alınan Temalar/products-WB03N9066/calypso/calypso-theme/js/common.js",
+		"/C/Users/bunyamin.simsek/Source/Workspaces/KendinYonetWeb/KendinYonet/js/common.js",
+		"/C/xampp/htdocs/calypso/contact.html",
+		"/C/xampp/htdocs/calypso/js/common.js",
+		"/C/xampp/htdocs/calypso/contact.php",
+		"/C/Users/bunyamin.simsek/Desktop/common.js",
+		"/C/Users/bunyamin.simsek/Source/Workspaces/KendinYonetWeb/KendinYonet/contact.html",
+		"/C/Users/bunyamin.simsek/Source/Workspaces/KendinYonetWeb/KendinYonet/sendmail.aspx",
+		"/C/Users/bunyamin.simsek/Source/Workspaces/KendinYonetWeb/KendinYonet/contact/get_captcha.aspx",
+		"/C/Users/bunyamin.simsek/Source/Workspaces/KendinYonetWeb/KendinYonet/contact/get_captcha.aspx.cs",
+		"/C/Users/bunyamin.simsek/Downloads/PHPMailer_5.2.4/PHPMailer_5.2.4/class.phpmailer.php",
+		"/C/Users/bunyamin.simsek/Downloads/PHPMailer_5.2.4.zip.asc",
+		"/C/xampp/htdocs/captcha/captcha_test.html",
+		"/C/Users/bunyamin.simsek/Desktop/index.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Satın Alınan Temalar/products-WB03N9066/calypso/calypso-theme/contact.php",
+		"/C/Users/bunyamin.simsek/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/I512D2RU/hyptrm.txt",
+		"/C/Users/bunyamin.simsek/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/I512D2RU/hyptrm (003).txt",
+		"/C/xampp/htdocs/mail/gonder.php",
+		"/C/Users/bunyamin.simsek/OneDrive/Belgeler/OfficeLicenceKey.txt",
+		"/C/Users/bunyamin.simsek/AppData/Local/Temp/C2C9.tmp.txt",
+		"/C/Users/bunyamin.simsek/Downloads/Get-DetailedMessageStats.ps1",
+		"/C/xampp/htdocs/captcha/get_captcha.php",
+		"/C/Users/bunyamin.simsek/AppData/Local/Temp/8D95.tmp.txt",
+		"//Bunyaminnb/mssqlserver/FileStreamKlasoru/FileTableKlasoru/AsDASDASd.txt",
+		"/C/Users/bunyamin.simsek/Desktop/Orme_Salon.its",
+		"/C/Guncel/Leo 243/Lic/Leo.config",
+		"/C/Users/bunyamin.simsek/Downloads/wordpress-4.4.2-tr_TR/wordpress/wp-config.php",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/eski web site/index.html",
+		"/C/Users/bunyamin.simsek/AppData/Local/Temp/7zO8882FB79/SetupApp.ini",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site 06042016/underconstruction.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site 06042016/success.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site 06042016/maintenance.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site 06042016/mainfeatures.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site 06042016/mailsuccess.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site 06042016/404.html",
+		"/C/Users/bunyamin.simsek/Documents/Güncel Yazılım/Kendin Yönet/Web Site 06042016/about.html"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"lang",
+			"phantom",
+			"ever",
+			"demo",
+			"sIRI",
+			"footer",
+			"str",
+			" style=\" line-height: 15.6933px; font-size: 11pt; font-family: Calibri, sans-serif;\"",
+			"</p>",
+			"</strong></p>",
+			"<p><strong>",
+			" style=\"line-height: 15.6933px; font-size: 11pt; font-family: Calibri, sans-serif;\"",
+			"<p>",
+			" style=\"font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 12px;\"",
+			"</p>",
+			"p >",
+			"style=\"font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 12px;\"",
+			"page-not",
+			"theme",
+			"home-portfolio bgarea topspace30",
+			"awes",
+			"H",
+			"\\\\192.168.16.3\\guncel\\Diğer\\Dokümanlar\\TestVideo.mp4",
+			"assets",
+			".js",
+			"js",
+			"wow",
+			"avatar",
+			"https://app.kendinyonet.com",
+			"app",
+			"avatar.jpg",
+			"http://wowthemes.net/demo/biscaya/img/demo/avatar.jpg",
+			"http",
+			"850",
+			"http://",
+			"http",
+			"post",
+			"sorry",
+			"une",
+			"php",
+			"contac",
+			"mail",
+			"sorr",
+			"sendmail",
+			"pass",
+			"include 'class.phpmailer.php';",
+			"btn",
+			"asp",
+			"$_POST",
+			"$_POST\n$_POST",
+			"parse",
+			"$email",
+			"mail",
+			"mial",
+			"smtp",
+			"$from",
+			"sendmail",
+			"filter",
+			"<li><a href=\"about.html\">HAKKIMIZDA</a></li>",
+			"                    <",
+			"<li><a href=\"about.html\">HAKKIMIZDA</a></li>",
+			"guncel",
+			"sql",
+			"1000",
+			"error",
+			"Table error",
+			"Table error\n",
+			"badge",
+			"KOTONTEKS",
+			"KOTONTE",
+			"KOTON",
+			"drop",
+			"Guncel Yazilim Website",
+			"exception message",
+			"cmb_Baudrate",
+			"built",
+			"das",
+			"fileName",
+			"locati",
+			"TMP_TamirRaporSeriID",
+			"IsDetail = False",
+			"IsDetail = ",
+			"MASTER",
+			"daADOQueryDataView1",
+			"DETAY",
+			"TdaSQL",
+			"detay",
+			"regis",
+			"il ba",
+			"boş",
+			"boş mo",
+			"TR:>\\n",
+			"Şimdi yenide",
+			"Şimdi yeniden başlatılsın mı?",
+			"00001010",
+			"\\r",
+			"ipucu",
+			"XX:>",
+			"ken",
+			"animated",
+			"bold",
+			"DataField",
+			"MASTER",
+			"ToplamMiktar_Mt",
+			"GENEL",
+			"pipe",
+			"AMBAR_GENEL",
+			"slider1",
+			"slider",
+			"image",
+			"images",
+			"image",
+			"102787065",
+			".html",
+			"./im/",
+			"index_files",
+			"Lamap App Landing Page_files",
+			"Lamap App Landing Page",
+			"ga.js",
+			"Lamap App Landing Page_files",
+			"lan",
+			"Lamap App Landing Page_files",
+			".js",
+			"ToplamExport_Mt",
+			"KK1B_Mt",
+			"Mamulexport",
+			"ToplamExport"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"",
+			"</p>\\n",
+			"</h5>",
+			"<h5>",
+			"",
+			"<p>\\n",
+			"",
+			"\\n</p>\\n",
+			"</p>\\n",
+			"p>",
+			"",
+			"videos/TestVideo.mp4",
+			"http://app.kendinyonet.com",
+			"/img/avatar.jpg",
+			"https://",
+			"TMPV_TamirRaporSeriID",
+			"TR:>",
+			"./img/",
+			"js",
+			"im",
+			"img",
+			"css",
+			"img",
+			"js",
+			"",
+			"asd[\"",
+			"\\n",
+			"xxyyxx",
+			"\\n,[\"m\",",
+			"\\n[\"m\","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true
+}
