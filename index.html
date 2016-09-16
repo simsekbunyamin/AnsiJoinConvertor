@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8" />
+<title>Ansi Join Converter</title>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<h1>Ansi Join Converter</h1>
+	<pre id="editor">
+Select  M.MakinaNo, RT.*
+From    IT60_rf_Tags RT
+		Left Outer Join IT01_Makinalar M On M.MakinaID = RT.ReaderAntenID
+Order By AddTime DESC
+
+Select Top 20
+		M.MakinaNo, RTL.*
+From    IT60_rf_Tags_Logs RTL
+		Left Outer Join IT01_Makinalar M On M.MakinaID = RTL.ReaderAntenID
+Order By RTL.RFIDTagLogID Desc
+
+	</pre>
+	<br>
+	<button type="button" class="button-blue" onclick="yap()">ÇEVİTTİTTİR</button>
+	<button onclick="copySelection()" class="button-grey" >SEÇİLENİ KOPYALA</button>
+	<br>
+	<pre id="result">
+		
+	</pre>
+	<script src="./ace/ace.js" type="text/javascript" charset="utf-8"></script>
+	<script src="js/common.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>
