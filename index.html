@@ -13,6 +13,8 @@ From    IT60_rf_Tags RT
 		Left Outer Join IT01_Makinalar M On M.MakinaID = RT.ReaderAntenID
 Order By AddTime DESC
 
+
+
 Select Top 20
 		M.MakinaNo, RTL.*
 From    IT60_rf_Tags_Logs RTL
@@ -21,13 +23,17 @@ Order By RTL.RFIDTagLogID Desc
 
 	</pre>
 	<br>
-	<button type="button" class="button-blue" onclick="yap()">ÇEVİTTİTTİR</button>
+	<button type="button" class="button-blue" onclick="yap()">ÇEVİTTİR</button>
 	<button onclick="copySelection()" class="button-grey" >SEÇİLENİ KOPYALA</button>
 	<br>
 	<pre id="result">
 		
 	</pre>
+
+	<a href="https://github.com/simsekbunyamin/AnsiJoinConvertor" class="button btn-sm button-grey">GitHub</a>
+
 	<script src="./ace/ace.js" type="text/javascript" charset="utf-8"></script>
 	<script src="js/common.js" type="text/javascript" charset="utf-8"></script>
+
 </body>
 </html>
